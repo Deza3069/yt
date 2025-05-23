@@ -5,7 +5,7 @@ import uuid
 
 app = Flask(__name__)
 
-API_KEY = "your_secret_key_here"
+API_KEY = "duugefhhhfcdxhgy"
 DOWNLOADS_DIR = "downloads"
 os.makedirs(DOWNLOADS_DIR, exist_ok=True)
 
